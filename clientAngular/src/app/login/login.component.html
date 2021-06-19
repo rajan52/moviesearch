@@ -1,0 +1,22 @@
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <table  class="center" cellpadding="4">
+      <tbody>
+        <tr>
+          <td>User Name</td>
+          <td><input type="text" formControlName="username" ></td>
+          <td><label *ngIf="data.username.errors?.required">Username is required</label></td>
+        </tr>
+
+        <tr>
+            <td>Password</td>
+            <td><input type="password" formControlName="password" ></td>
+            <td><label *ngIf="data.password.errors?.required">Password is required</label></td>
+          </tr>
+
+            <tr>
+                  <td colspan="3" style="text-align:center;"><button >Login</button></td>
+            </tr>
+                
+      </tbody>
+    </table>
+  </form>

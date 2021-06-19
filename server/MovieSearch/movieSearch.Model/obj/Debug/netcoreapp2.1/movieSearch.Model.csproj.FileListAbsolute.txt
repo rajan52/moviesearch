@@ -1,0 +1,11 @@
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\bin\Debug\netcoreapp2.1\movieSearch.Model.deps.json
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\bin\Debug\netcoreapp2.1\movieSearch.Model.runtimeconfig.json
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\bin\Debug\netcoreapp2.1\movieSearch.Model.runtimeconfig.dev.json
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\bin\Debug\netcoreapp2.1\movieSearch.Model.dll
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\bin\Debug\netcoreapp2.1\movieSearch.Model.pdb
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.csproj.CoreCompileInputs.cache
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.AssemblyInfoInputs.cache
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.AssemblyInfo.cs
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.dll
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.pdb
+C:\Users\kurajan\source\repos\MovieSearch\movieSearch.Model\obj\Debug\netcoreapp2.1\movieSearch.Model.csprojAssemblyReference.cache

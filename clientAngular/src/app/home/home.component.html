@@ -1,0 +1,46 @@
+<div style="float:right;">
+    <button [routerLink]="['/home']" mat-button>Home</button>
+
+    <button [routerLink]="['/login']" mat-button>Logout</button>
+
+    <label  >welcome {{userName}}</label>
+  </div>
+  <br>
+  <br>
+  <br>
+  <table>
+    <tr>
+      <th>
+        TItle
+      </th>
+      <th>
+        Location
+      </th>
+      <th>
+        Language
+      </th>
+      <th>
+        listingType
+      </th>
+      <th>
+        imdbRating
+      </th>
+    </tr>
+    <tr *ngFor="let movie of movies">
+      <td> 
+     <a [routerLink]="['/Product', movie.Title]">{{movie["Title"]}}</a>
+      </td>
+      <td>
+        {{movie["Location"]}}
+      </td>
+      <td>
+        {{movie["Language"]}}
+      </td>
+      <td>
+        {{movie["listingType"]}}
+      </td>
+      <td>
+        {{movie["imdbRating"]}}
+      </td>
+    </tr>
+  </table>

@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "movieSearch.service/1.0.0": {
+        "dependencies": {
+          "movieSearch.IRepository": "1.0.0",
+          "movieSearch.Model": "1.0.0",
+          "movieSerach.iservice": "1.0.0"
+        },
+        "runtime": {
+          "movieSearch.service.dll": {}
+        }
+      },
+      "movieSearch.IRepository/1.0.0": {
+        "runtime": {
+          "movieSearch.IRepository.dll": {}
+        }
+      },
+      "movieSearch.Model/1.0.0": {
+        "runtime": {
+          "movieSearch.Model.dll": {}
+        }
+      },
+      "movieSerach.iservice/1.0.0": {
+        "dependencies": {
+          "movieSearch.Model": "1.0.0"
+        },
+        "runtime": {
+          "movieSerach.iservice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "movieSearch.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieSearch.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieSearch.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "movieSerach.iservice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

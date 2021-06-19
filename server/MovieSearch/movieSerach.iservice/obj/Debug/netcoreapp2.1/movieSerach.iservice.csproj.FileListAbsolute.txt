@@ -1,0 +1,12 @@
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\bin\Debug\netcoreapp2.1\movieSerach.iservice.deps.json
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\bin\Debug\netcoreapp2.1\movieSerach.iservice.dll
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\bin\Debug\netcoreapp2.1\movieSerach.iservice.pdb
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\bin\Debug\netcoreapp2.1\movieSearch.Model.dll
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\bin\Debug\netcoreapp2.1\movieSearch.Model.pdb
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.csprojAssemblyReference.cache
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.csproj.CoreCompileInputs.cache
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.AssemblyInfoInputs.cache
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.AssemblyInfo.cs
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.csproj.CopyComplete
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.dll
+C:\Users\kurajan\source\repos\MovieSearch\movieSerach.iservice\obj\Debug\netcoreapp2.1\movieSerach.iservice.pdb

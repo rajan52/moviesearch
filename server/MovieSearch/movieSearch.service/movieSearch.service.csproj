@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\movieSearch.IRepository\movieSearch.IRepository.csproj" />
+    <ProjectReference Include="..\movieSearch.Model\movieSearch.Model.csproj" />
+    <ProjectReference Include="..\movieSerach.iservice\movieSerach.iservice.csproj" />
+  </ItemGroup>
+
+</Project>
